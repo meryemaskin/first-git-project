@@ -7,3 +7,8 @@
     git branch -M main -> creatig a main branch
    git remote add origin https://github.com/meryemaskin/first-git-project.git -> linking local repo and remote repo.When I push code, code will go to this link
     git push -u origin main -> sending the code to that link
+    *Pushing the new codes after the first Time
+    - add a new code: Notes 2.txt 
+     - git add . 
+     - git commit -m "message"
+     - git push
